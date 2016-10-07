@@ -1,0 +1,28 @@
+<codestructure version="5.8">
+<phptree>
+<treenode node="libs/Smarty.class.php;PHP:PHP Include;J:\home\PhpLessons\www\registration\index.php;f14;1;35;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="user.php;PHP:PHP Include;J:\home\registration\www\userpage.php;f9;2;17;2;;J:\home\registration\www\ajax.php;f9;8;17;8;;J:\home\registration\www\index.php;f9;21;17;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="User.php;PHP:PHP Include;J:\home\registration\www\login.php;f14;7;22;7;;J:\home\registration\www\sendmail.php;f9;3;17;3;;J:\home\registration\www\conf_reg.php;f9;2;17;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="User;PHP:Class Name;J:\home\registration\www\User.php;f0;1;3;86;;;;vpos;;v;;r;;d10,1;;b0,0;;m">
+<treenode node="changeStatus;PHP:Function Name;J:\home\registration\www\User.php;f9;71;3;85;;;;vpos;;v;;r;;d38,71;;b1,0;;mtoken;;p">
+</treenode>
+<treenode node="changeUser;PHP:Function Name;J:\home\registration\www\User.php;f9;44;3;55;;;;vpos;;v;;r;;d75,44;;b1,0;;mflogin;;pname;;plname;;plogin;;ptelephone;;pemail;;p">
+</treenode>
+<treenode node="CheckLogin;PHP:Function Name;J:\home\registration\www\User.php;f9;9;3;17;;;;vpos;;v;;r;;d36,9;;b1,0;;mlogin;;p">
+</treenode>
+<treenode node="checkUser;PHP:Function Name;J:\home\registration\www\User.php;f9;18;3;34;;;;vpos;;v;;r;;d46,18;;b1,0;;mlogin;;ppassword;;p">
+</treenode>
+<treenode node="ConnectionDB;PHP:Function Name;J:\home\registration\www\User.php;f8;4;3;8;;;;vpos;;v;;r;;d31,4;;b1,0;;m">
+</treenode>
+<treenode node="getToken;PHP:Function Name;J:\home\registration\www\User.php;f9;63;3;70;;;;vpos;;v;;r;;d34,63;;b1,0;;memail;;p">
+</treenode>
+<treenode node="getUser;PHP:Function Name;J:\home\registration\www\User.php;f9;35;3;43;;;;vpos;;v;;r;;d33,35;;b1,0;;mlogin;;p">
+</treenode>
+<treenode node="inDataBase;PHP:Function Name;J:\home\registration\www\User.php;f9;56;3;62;;;;vpos;;v;;r;;d86,56;;b1,0;;mfirstname;;plname;;plogin;;ppassword;;ptelephone;;pemail;;p">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
