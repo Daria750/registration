@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>test_1</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="style.css"/>	
-</head>
-<body>
 <?php
 	
 	if(isset($_COOKIE['enter']))header("Location: userpage.php");
@@ -29,5 +21,3 @@ $smarty->assign('a',$a);
 $smarty->display('contentindex.tpl');
 $smarty->display('footer.tpl');
 ?>
-</body>
-</html>
